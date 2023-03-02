@@ -1,7 +1,7 @@
 condition	sensitive	resistance	sensitive_label	resistance_label	fyeco_terms
-19°C	FYPO:0000080	FYPO:0005260			FYECO:0000006(19)
+19°C	FYPO:0000080	FYPO:0005260			FYECO:0000006(19),FYECO:0000137
 36°C	FYPO:0000082	FYPO:0005258	decreased cell population growth at high temperature	increased cell population growth at high temperature	FYECO:0000004(36),FYECO:0000137
-MM	FYPO:0001355	FYPO:0004557	decreased vegetative cell population growth	increased vegetative cell population growth	FYECO:0000126,FYECO:0000005(32)
+MM	FYPO:0001355	FYPO:0004557	decreased vegetative cell population growth	increased vegetative cell population growth	FYECO:0000126
 TBZ	FYPO:0000091	FYPO:0000069			FYECO:0000079,FYECO:0000137
 MBC	FYPO:0003840	FYPO:0004025			FYECO:0000290,FYECO:0000137
 LatA	FYPO:0000107	FYPO:0004513			FYECO:0000324,FYECO:0000137
