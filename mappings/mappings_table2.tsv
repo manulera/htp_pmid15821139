@@ -1,0 +1,18 @@
+condition	sensitive	resistance	sensitive_label	resistance_label	fyeco_terms
+19°C	FYPO:0000080	FYPO:0005260			FYECO:0000006(19)
+36°C	FYPO:0000082	FYPO:0005258	decreased cell population growth at high temperature	increased cell population growth at high temperature	FYECO:0000004(36),FYECO:0000137
+MM	FYPO:0001355	FYPO:0004557	decreased vegetative cell population growth	increased vegetative cell population growth	FYECO:0000126,FYECO:0000005(32)
+TBZ	FYPO:0000091	FYPO:0000069			FYECO:0000079,FYECO:0000137
+MBC	FYPO:0003840	FYPO:0004025			FYECO:0000290,FYECO:0000137
+LatA	FYPO:0000107	FYPO:0004513			FYECO:0000324,FYECO:0000137
+BFA	FYPO:0001501	FYPO:0000067	sensitive to brefeldin A	resistance to brefeldin A	FYECO:0000137,FYECO:0000319
+cHex	FYPO:0000104	FYPO:0000764	sensitive to cycloheximide	resistance to cycloheximide	FYECO:0000137,FYECO:0000257(100ng/ml)
+H2O2	FYPO:0000087	FYPO:0001103	sensitive to hydrogen peroxide	resistance to hydrogen peroxide	FYECO:0000078,FYECO:0000137
+HU	FYPO:0000088	FYPO:0002578	sensitive to hydroxyurea	resistance to hydroxyurea	FYECO:0000137,FYECO:0000170
+EMS	FYPO:0002167	XXXXX			XXXXXX,FYECO:0000137
+Bleo	FYPO:0000095	FYPO:0009031	sensitive to bleomycin	resistance to bleomycin	FYECO:0000277,FYECO:0000137
+SDS	FYPO:0000841	FYPO:0005266	sensitive to sodium dodecyl sulfate	resistance to sodium dodecyl sulfate	FYECO:0000167,FYECO:0000137
+EGTA	FYPO:0007931	FYPO:0009038	sensitive to egtazic acid	resistance to egtazic acid	FYECO:0000137,FYECO:0000411
+KCl	FYPO:0001214	FYPO:0009039	sensitive to potassium chloride	resistance to potassium chloride	FYECO:0000137,FYECO:0000207
+Sorb	FYPO:0000112	FYPO:0009042	sensitive to sorbitol	resistance to sorbitol	FYECO:0000025,FYECO:0000137
+Calc	FYPO:0001188	FYPO:0001884	sensitive to Calcofluor White	resistance to Calcofluor White	FYECO:0000113,FYECO:0000137

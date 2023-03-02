@@ -1,0 +1,2 @@
+curl -k https://raw.githubusercontent.com/pombase/fypo/master/fyeco.obo --output data/fyeco.obo
+curl -k https://raw.githubusercontent.com/pombase/fypo/master/src/ontology/fypo-edit.owl --output data/fypo-edit.owl
