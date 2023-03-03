@@ -13,7 +13,7 @@ import json
 import sys
 import re
 
-def main(input_file, output_file1, format):
+def main(input_file, output_file1):
     out_dictionary = dict()
     with open(input_file, 'r') as ins:
         for line in ins:
