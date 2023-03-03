@@ -6,3 +6,6 @@ The data comes from the tables of the paper (see `data/table?.tsv`), copied from
 
 Converted to tsv using: https://wtools.io/convert-html-to-tsv
 
+## Run the pipeline
+
+The file `run.sh` runs the mappings, the scripts can be followed.

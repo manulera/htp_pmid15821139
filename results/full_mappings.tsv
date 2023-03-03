@@ -1,0 +1,20 @@
+condition	sensitive	resistance	sensitive_label	resistance_label	fyeco_terms	fyeco_labels
+19°C	FYPO:0000080	FYPO:0005260	decreased cell population growth at low temperature	increased cell population growth at low temperature	FYECO:0000006(19),FYECO:0000137	low temperature|YES
+36°C	FYPO:0000082	FYPO:0005258	decreased cell population growth at high temperature	increased cell population growth at high temperature	FYECO:0000004(36),FYECO:0000137	high temperature|YES
+MM	FYPO:0001355	FYPO:0004557	decreased vegetative cell population growth	increased vegetative cell population growth	FYECO:0000126	glucose MM
+TBZ	FYPO:0000091	FYPO:0000069	sensitive to thiabendazole	resistance to thiabendazole	FYECO:0000079,FYECO:0000137	+ thiabendazole|YES
+MBC	FYPO:0003840	FYPO:0004025	sensitive to carbendazim	resistance to carbendazim	FYECO:0000290,FYECO:0000137	+ carbendazim|YES
+LatA	FYPO:0000107	FYPO:0004513	sensitive to latrunculin A	resistance to latrunculin A	FYECO:0000324,FYECO:0000137	+ latB|YES
+BFA	FYPO:0001501	FYPO:0000067	sensitive to brefeldin A	resistance to brefeldin A	FYECO:0000137,FYECO:0000319	YES|+ BFA
+cHex	FYPO:0000104	FYPO:0000764	sensitive to cycloheximide	resistance to cycloheximide	FYECO:0000137,FYECO:0000257(100ng/ml)	YES|+ cycloheximide
+H2O2	FYPO:0000087	FYPO:0001103	sensitive to hydrogen peroxide	resistance to hydrogen peroxide	FYECO:0000078,FYECO:0000137	+ H2O2|YES
+HU	FYPO:0000088	FYPO:0002578	sensitive to hydroxyurea	resistance to hydroxyurea	FYECO:0000137,FYECO:0000170	YES|+ HU
+EMS	FYPO:0002167	FYPO:0009055	sensitive to ethyl methanesulfonate	resistance to ethyl methanesulfonate	FYECO:0000419,FYECO:0000137	+ ethyl methanesulfonate|YES
+Bleo	FYPO:0000095	FYPO:0009031	sensitive to bleomycin	resistance to bleomycin	FYECO:0000277,FYECO:0000137	+ bleomycin|YES
+SDS	FYPO:0000841	FYPO:0005266	sensitive to sodium dodecyl sulfate	resistance to sodium dodecyl sulfate	FYECO:0000167,FYECO:0000137	+ SDS|YES
+EGTA	FYPO:0007931	FYPO:0009038	sensitive to egtazic acid	resistance to egtazic acid	FYECO:0000137,FYECO:0000411	YES|+ egtazic acid
+KCl	FYPO:0001214	FYPO:0009039	sensitive to potassium chloride	resistance to potassium chloride	FYECO:0000137,FYECO:0000207	YES|+ KCl
+Sorb	FYPO:0000112	FYPO:0009042	sensitive to sorbitol	resistance to sorbitol	FYECO:0000025,FYECO:0000137	+ sorbitol|YES
+Calc	FYPO:0001188	FYPO:0001884	sensitive to Calcofluor White	resistance to Calcofluor White	FYECO:0000113,FYECO:0000137	+ Calcofluor White|YES
+MMS	FYPO:0000725	FYPO:0000089	resistance to methyl methanesulfonate	sensitive to methyl methanesulfonate	FYECO:0000137,FYECO:0000211	YES|+ MMS
+4NQ	FYPO:0001098	FYPO:0002758	sensitive to 4-nitroquinoline N-oxide	resistance to 4-nitroquinoline N-oxide	FYECO:0000137,FYECO:0000326	YES|+ 4-NQO
